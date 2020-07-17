@@ -1,0 +1,14 @@
+.faqs_content {
+    padding: 5% 10%;
+}
+
+h1,
+h2 {
+  font-family: Open Sans;
+  font-size: 30px;
+}
+
+p {
+  font-size: var(--normal);
+  font-family: Open Sans;
+}

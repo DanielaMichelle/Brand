@@ -1,0 +1,23 @@
+body {
+    background-color: var(--black-color);
+    text-align:center;
+    color: var(--white-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.image{
+    width:30%;
+}
+
+a{
+    color: var(--white-color);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: var(--green-color);
+}
